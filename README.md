@@ -11,3 +11,5 @@ CSS has different classes setup and it's static on the other hand in js changing
 in CSS coding when we have a mistake in css rules or missing tag, this doesn't impact the entire web page, might break the layout but it won’t stop the site from loading. but one syntax error in JS will break entire app or lose some works.
 
 btw what every things looks like and where should components placed are CSS. actualy JS is beyond that, when a user click on a element (button for example) what should happen after that it's by JS.
+
+# 2
