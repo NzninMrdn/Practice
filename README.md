@@ -80,3 +80,5 @@ condition ? if-statement : else-statement ;
 - if we have an object and don't want that change :
 use Object.freeze(object-name) 
 
+> I also do odin html task; for practicing html and git.
+https://github.com/NzninMrdn/odin-recipes
