@@ -1,4 +1,4 @@
-# My research
+# 1
 
 which one's better for styling? CSS or JS
 
@@ -44,8 +44,8 @@ message = 123456;
 - A BigInt value is created by appending n to the end of an integer.
 const bigInt = 1234567890123456789012345678901234567890n;
 
-- Backticks (`) allow us to embed variables and expressions into a string by wrapping them in ${…}.
-alert( `the result is ${1 + 2}` ); // the result is 3
+- Backticks (\`) allow us to embed variables and expressions into a string by wrapping them in ${…}.
+alert(\`the result is ${1 + 2}` ); // the result is 3
 
 - difference between null and undefined:
 null means “nothing”, “empty” or “value unknown”.
