@@ -82,3 +82,29 @@ use Object.freeze(object-name)
 
 > I also do odin html task; for practicing html and git.
 https://github.com/NzninMrdn/odin-recipes
+
+# 3 date : *1402/4/28*
+
+> Flex
+
+- flex : flex-grow flex-shrink flex-basis
+-> flex-basis = in row it's like with for items and in column it's like height.(also not exactly the same)
+-> we can say flex-grow is inverse of flex-shrink. 
+   first one control that how the space distributed between children when they are smaller than container.(maximize viewport)
+   and the second control that how remove space when children are bigger than container.(minimize viewport)
+
+- flex-direction : (row | column)
+- justify-content : ( flex-start | flex-end | center | space-around | space-between | space-evenly)
+- align-item : (stretch | center |  flex-start | flex-end | start | end | baseline | initial | inherit)
+- align-self : each item change it self.
+
+- min-with is important in flexbox.
+
+- gap it's great for navigation header. we put this property in container.
+
+- margin left auto is usefull for logo in navbar.
+
+- we can change the height of container if the height of html and body is 100%. if we don't do that the 
+height will be the height that container need to display it's content.
+
+- Grid solves different problems than Flexbox.
