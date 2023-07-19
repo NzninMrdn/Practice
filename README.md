@@ -87,10 +87,10 @@ https://github.com/NzninMrdn/odin-recipes
 
 > Flex
 
-- flex : flex-grow flex-shrink flex-basis
--> flex-basis = in row it's like with for items and in column it's like height.(also not exactly the same)
--> we can say flex-grow is inverse of flex-shrink. 
-   first one control that how the space distributed between children when they are smaller than container.(maximize viewport)
+- flex : flex-grow flex-shrink flex-basis\
+-> flex-basis = in row it's like with for items and in column it's like height.(also not exactly the same)\
+-> we can say flex-grow is inverse of flex-shrink.\
+   first one control that how the space distributed between children when they are smaller than container.(maximize viewport)\
    and the second control that how remove space when children are bigger than container.(minimize viewport)
 
 - flex-direction : (row | column)
