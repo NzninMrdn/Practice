@@ -83,7 +83,7 @@ use Object.freeze(object-name)
 > I also do odin html task; for practicing html and git.
 https://github.com/NzninMrdn/odin-recipes
 
-# 3 date : *1402/4/28*
+# 3, date : *1402/4/28*
 
 > Flex
 
@@ -115,3 +115,11 @@ https://github.com/NzninMrdn/odin-recipes
 height will be the height that container need to display it's content.
 
 - Grid solves different problems than Flexbox.
+
+# 4, date : *1402/4/31*
+
+- what is Holy Grail layout?
+
+-> It's name of specific web design page. that include header section in top, footer section at the bottom, and 3 columns in the middle that is 2 sidebar and main in between.
+
+and also done flex odin exercise : https://github.com/NzninMrdn/css-exercises.git
