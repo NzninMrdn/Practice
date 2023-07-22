@@ -93,7 +93,13 @@ https://github.com/NzninMrdn/odin-recipes
    first one control that how the space distributed between children when they are smaller than container.(maximize viewport)
    and the second control that how remove space when children are bigger than container.(minimize viewport)
 
-- flex-direction : (row | column)
+- flex-direction : (row | column | row-reverse | column-reverse)
+- flex-wrap : (nowrap | wrap | wrap-reverse)
+-> nowrap :  default .  every thing in one line.
+-> wrap : items go in multiply lines up to bottom . != wrap-reverse
+
+- flex-flow : flex-direction flex-wrap
+
 - justify-content : ( flex-start | flex-end | center | space-around | space-between | space-evenly)
 - align-item : (stretch | center |  flex-start | flex-end | start | end | baseline | initial | inherit)
 - align-self : each item change it self.
@@ -101,6 +107,7 @@ https://github.com/NzninMrdn/odin-recipes
 - min-with is important in flexbox.
 
 - gap it's great for navigation header. we put this property in container.
+-> gap : row-gap column-gap
 
 - margin left auto is usefull for logo in navbar.
 
