@@ -116,3 +116,7 @@ height will be the height that container need to display it's content.
 -> It's name of specific web design page. that include header section in top, footer section at the bottom, and 3 columns in the middle that is 2 sidebar and main in between.
 
 and also done flex odin exercise : https://github.com/NzninMrdn/css-exercises.git
+
+# 5, date : *1402/5/1*
+
+I done the html and css odin project : https://github.com/NzninMrdn/maybePersonal.git
