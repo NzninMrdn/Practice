@@ -128,3 +128,6 @@ and also done flex odin exercise : https://github.com/NzninMrdn/css-exercises.gi
 
 I done the html and css odin project : https://github.com/NzninMrdn/maybePersonal.git
 
+# 6, date : *1402/5/3*
+
+- invoke is a fancy word for run or execute.
