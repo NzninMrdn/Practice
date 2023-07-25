@@ -121,3 +121,11 @@ and also done flex odin exercise : https://github.com/NzninMrdn/css-exercises.gi
 
 - I done html, css odin project : https://github.com/NzninMrdn/maybePersonal.git
 
+# 6, date : *1402/5/3*
+
+- invoke is fancy word for run or execute.
+
+- built-in browser function help us coding faster, i mean dont need to write whole function and then use that, these functions couldn't written in javascript, which is written with low level sysyem language like c++. 
+
+- i also done Rock Paper Scissors game with javascript : https://github.com/NzninMrdn/RPS.git
+
