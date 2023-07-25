@@ -83,23 +83,17 @@ use Object.freeze(object-name)
 > I also do odin html task; for practicing html and git.
 https://github.com/NzninMrdn/odin-recipes
 
-# 3, date : *1402/4/28*
+# 3 date : *1402/4/28*
 
 > Flex
 
-- flex : flex-grow flex-shrink flex-basis
--> flex-basis = in row it's like with for items and in column it's like height.(also not exactly the same)
--> we can say flex-grow is inverse of flex-shrink. 
-   first one control that how the space distributed between children when they are smaller than container.(maximize viewport)
+- flex : flex-grow flex-shrink flex-basis\
+-> flex-basis = in row it's like with for items and in column it's like height.(also not exactly the same)\
+-> we can say flex-grow is inverse of flex-shrink.\
+   first one control that how the space distributed between children when they are smaller than container.(maximize viewport)\
    and the second control that how remove space when children are bigger than container.(minimize viewport)
 
-- flex-direction : (row | column | row-reverse | column-reverse)
-- flex-wrap : (nowrap | wrap | wrap-reverse)
--> nowrap :  default .  every thing in one line.
--> wrap : items go in multiply lines up to bottom . != wrap-reverse
-
-- flex-flow : flex-direction flex-wrap
-
+- flex-direction : (row | column)
 - justify-content : ( flex-start | flex-end | center | space-around | space-between | space-evenly)
 - align-item : (stretch | center |  flex-start | flex-end | start | end | baseline | initial | inherit)
 - align-self : each item change it self.
@@ -107,7 +101,6 @@ https://github.com/NzninMrdn/odin-recipes
 - min-with is important in flexbox.
 
 - gap it's great for navigation header. we put this property in container.
--> gap : row-gap column-gap
 
 - margin left auto is usefull for logo in navbar.
 
@@ -123,11 +116,3 @@ height will be the height that container need to display it's content.
 -> It's name of specific web design page. that include header section in top, footer section at the bottom, and 3 columns in the middle that is 2 sidebar and main in between.
 
 and also done flex odin exercise : https://github.com/NzninMrdn/css-exercises.git
-
-# 5, date : *1402/5/1*
-
-I done the html and css odin project : https://github.com/NzninMrdn/maybePersonal.git
-
-# 6, date : *1402/5/3*
-
-- invoke is a fancy word for run or execute.
