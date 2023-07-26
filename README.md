@@ -129,3 +129,17 @@ and also done flex odin exercise : https://github.com/NzninMrdn/css-exercises.gi
 
 - i also done Rock Paper Scissors game with javascript : https://github.com/NzninMrdn/RPS.git
 
+# 7, date : *1402/5/4*
+
+- What's camelCase?
+
+-> it's a way to naming variables or functions. When their names contains multiple words, here's the way for naming, the letters of first word are written completely in lowercase, for other words just the first letter of them written in upercase. This is also the way that using in clean code.
+
+- In clean code, variables shouldn't start with verbs like : const getUserScore. This could be confuse for functions. Means that for function names. 
+
+- When we use all caps for declaring variables?
+
+-> When programmer absolutely sure that variable is truly consistent.
+
+
+- also done javascript exercises : https://github.com/NzninMrdn/javascript-exercises.git
