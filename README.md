@@ -143,3 +143,44 @@ and also done flex odin exercise : https://github.com/NzninMrdn/css-exercises.gi
 
 
 - also done javascript exercises : https://github.com/NzninMrdn/javascript-exercises.git
+
+# 8, date : *1402/5/7*
+
+- What's Metadata?
+
+-> In a simple definition means data that describes data. for exapmle HTML is data but also include head that describes data like who wrote it : <meta name="author" content="Chris Mills" />
+
+- The meta element <meta charset="utf 8" /> in html head means that this web page will render in any human language. If don't do that the page will apear messed up. This also depending on what browser you use. For example Chrome whill atoumatically fix incorrect encoding.
+
+- <meta name="description" content="..." /> what's this kind of specifying use for?
+
+-> A description that include the content of your web page, will has potential to apear higher in relevant
+searches performed in search engines.
+
+- What's SEO (Search Engine Optimazation)?
+
+-> It's about site ranking. The process of making your website more visible in saerch result. Search engins maybe have some guidlines for SEO, but big search engins keep that result as a secret.
+
+- SEO method has 3 broad classes: 
+1. Technical
+2. Copywriting
+3. Popularity
+
+- What's DOM (Document Object Model)?
+
+-> It contains contents of nodes on a webpage as tree-like.
+
+- DOM methods : 
+
+-> Query selectors that returns refrence to that object that selected.
+
+-> Element creation creates a new element of tag type tagName.
+
+-> Append elements.
+
+-> Remove elements.
+
+-> Altering elements that when reference to an element, you can use that reference to alter the element’s own properties. 
+
+- and start these 30 javascript exersice : https://github.com/NzninMrdn/JavaScript30.git
+
