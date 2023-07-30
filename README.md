@@ -184,3 +184,28 @@ searches performed in search engines.
 
 - and start these 30 javascript exersice : https://github.com/NzninMrdn/JavaScript30.git
 
+# 9, date : *1402/5/8*
+
+- ok, i'm trying to creat and design cofe and resturant website.
+
+- How user can interact with that?
+
+-> In that website, if user sign up will has more facilities. for now just assume that user just want order food when is in that resturant. 
+
+- At first, is shown a welcome page after that they can start ordering their food in that resturant.
+They can see all the available categories of foods and when picked up one of them, they can select and add ideal item and in that category they have search option.
+
+- Also each food has their own page that include informations and ingredients that is changeble by customer. For exapmle they can handle that how much milk or sugre they need in their late. It has like button and comment section that is helpful for other to pick their choice.
+
+- In the bottom of page, there is spon and fork icon that they can see their orders so far.
+
+- After they pick their choice, thay can pay the money and then there is a page that say what time their orders will prepared.
+
+- Let's come back to home page, in that case user just sign up in, this page has navbar, footer and in main section something about that resturant like area, menu, ... 
+
+- After that we have user page. This is contains favorite dishes(that user liked them), order history so far and comments that leave in food page.
+
+- The user can also manage their profile and information. and also have logout option.
+
+- I put my sketch in images foolder.
+
