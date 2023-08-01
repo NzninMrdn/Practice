@@ -209,3 +209,15 @@ They can see all the available categories of foods and when picked up one of the
 
 - I put my sketch in images foolder.
 
+# 10, date : *1402/5/10*
+
+- What is user flow?
+
+-> The way of interacting user with project. what action they will do or what see after, all these have
+path that start with consumer's entry point on the product, like onboarding screen or homepage until get final action or outcomes.
+
+- That is very usefull and important to improve your product based on UX design.
+
+- With a user flow, designer can understand what users thinking about and follow their steps.
+
+- I put my user flow for one condition in images foolder.
