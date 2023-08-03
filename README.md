@@ -221,3 +221,26 @@ path that start with consumer's entry point on the product, like onboarding scre
 - With a user flow, designer can understand what users thinking about and follow their steps.
 
 - I put my user flow for one condition in images foolder.
+
+# 11, date : *1402/5/11*
+
+- When to use UX design user flow?
+
+-> 1. Before starting your design: First thing is understanding your users so you need analyze customer.
+After that, you will know how users will perform on your website or product and have how many pages or screens you need to design and how they will order in your mind.
+
+-> 2. After finishing your design: When finished your design you should present it to your manager or colleagues. use the user flow to display how users will act on your design work, how they will get their requirements met, and how their experience is.
+
+-> 3. Find target points that can be improved: Updating your product is actually important to improve its quality and user experience.
+
+- What are the different types of user flows?
+
+-> 1. Task flow: Task flow is a one-path flowchart for one specific mission. It will not show other branches and pathways. And it is frequently used in projects that all users will only follow one way.
+
+-> 2. Flowchart: he flowchart contains several task flows. Users will take different steps for different conditions.
+
+-> 3. Wireflow: Is more complicated. Wireflow is a better way to use it after how your users will perform and how many pages or screens you need to design are known.
+
+-> 4. Screen-flow: Screen flow will be the same as wireflow in style. The only difference is that it consists of a high-fidelity prototype and flowchart. If you need to show how your final design works to your colleagues, screen-flow will be the appropriate method.
+
+- My final user flows are in images foolder.
