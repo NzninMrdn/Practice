@@ -244,3 +244,24 @@ After that, you will know how users will perform on your website or product and 
 -> 4. Screen-flow: Screen flow will be the same as wireflow in style. The only difference is that it consists of a high-fidelity prototype and flowchart. If you need to show how your final design works to your colleagues, screen-flow will be the appropriate method.
 
 - My final user flows are in images foolder.
+
+
+# 12, date : *1402/5/14*
+
+- What is Sitemap?
+
+-> A sitemap is a diagram of a website or application, that shows how pages are prioritized and linked.
+
+- How to creat a Sitemap?
+
+-> A sitemap consists of linked pages, each with a reference number and a label. Reference numbers help you keep track of pages even as you move on to wireframes and prototypes.
+
+- As with any business process, creating a sitemap needs a good plan and preparation. You first need to determine what information you want to provide to the users and what role your website’s strategy should play. For example, if you run an online store, the main purpose of your site will probably be to sell your products.
+
+- Depending on your site’s purpose, you should arrange information and navigate the user through the site to achieve the result.
+
+- Start with the homepage, and then identify the pages that the user will go to directly from it. These should be in the second category.
+
+- Remember to focus on convenience and a positive user experience when creating your navigation. Your site needs to be clear and easy to use and navigate. Ensure that the users can find what they are looking for and that they’re in a place that brings them closer to the goal.
+
+- I put may Sitemap of home page and onboarding in images.
