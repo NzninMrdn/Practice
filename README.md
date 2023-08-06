@@ -265,3 +265,12 @@ After that, you will know how users will perform on your website or product and 
 - Remember to focus on convenience and a positive user experience when creating your navigation. Your site needs to be clear and easy to use and navigate. Ensure that the users can find what they are looking for and that they’re in a place that brings them closer to the goal.
 
 - I put may Sitemap of home page and onboarding in images.
+
+
+# 13, date : *1402/5/15*
+
+- Before starting Prtotyping and Designing, we should Wireframing. It's something based on sketch, user flow and sitemap that we do earlier and more like a real project but not still yet.
+
+- In our process to get the intended result, we improve step by step to have a site with better user experience and that's important for us to focus on those thing that user can interact with and ther satisfaction.
+
+- I put the ordering phase wire frame in image foolder.
